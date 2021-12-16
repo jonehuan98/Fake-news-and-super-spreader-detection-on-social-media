@@ -14,7 +14,7 @@ The Web Application folder contains the web application Python file, template fi
 Python 3.9.6, tensorflow, scikitlearn, pandas, numpy, tensorflow_hub, tensorFlow_text, matplotlib, seaborn, keras
 ### Instructions
 Download the classification folder, and ensure that the two datasets are present on your local machine.  
-For all classification files: "BERT Classification.ipynb" for BERT model, "LSTM RNN Classification.ipynb" for LSTM model, and "Machine Learning Classification.ipynb" for machine learning models,  
-run the code with the appropriate dataset filename selection:  
+For all classification files: "BERT Classification.ipynb" for BERT model, "LSTM RNN Classification.ipynb" for LSTM model, and "Machine Learning Classification.ipynb" for machine learning models.  
+Run the code with the appropriate dataset filename selection:  
 For fake news vs real news classification: "fake news dataset.csv"  
 For normal news vs Covid-19 news classification: "news categorisation dataset.csv"  
