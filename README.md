@@ -16,7 +16,7 @@ The "Web Application" folder contains the web application Python file, template 
 
 ## To run the code (classification):
 ### Requirements
-Python 3.9.6, tensorflow, scikitlearn, pandas, numpy, tensorflow_hub, tensorFlow_text, matplotlib, seaborn, keras
+Python 3.9.6, tensorflow, scikitlearn, pandas, numpy, tensorflow_hub, tensorflow_text, matplotlib, seaborn, keras
 ### Instructions
 Download the "Classification" folder, and ensure that the two datasets are present on your local machine.  
 Classification files: "BERT Classification.ipynb" for BERT model, "LSTM RNN Classification.ipynb" for LSTM model, and "Machine Learning Classification.ipynb" for machine learning models.  
